@@ -24,3 +24,4 @@ public class EvenOddChecker {
         scanner.close();
     }
 }
+printf("the number is zero")
